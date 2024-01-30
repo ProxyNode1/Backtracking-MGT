@@ -2,6 +2,11 @@
 
 By Miles Tost
 
+Tost, M. (2023, July 6). _Level Design Summit—Benefits of Missing Out—What “Cyberpunk 2077” Taught Us About Non-Linear Level Design_. [https://www.youtube.com/watch?v=lXLRd5Kah-I](https://www.youtube.com/watch?v=lXLRd5Kah-I)
+
+(Tost, 2023)
+
+
 #to-do #dev-intentions #players-experience 
 
 ### My Questions:
@@ -23,7 +28,7 @@ By Miles Tost
 
 “oftentimes we would add reward to the challenge generic should provide by also making it the path with a cool bespoke experience. 27:02 To fulfill our goal to present a great story, we tended to cluster all our cool content related to exposition, lore, cool encounters, secrets, and sometimes even loot at bottlenecks in the level like in the end. 27:16 That in by itself is not such a big problem actually, if you only want to create a cool cinematic narrative experience. 27:25 However, looking at it from the perspective of creating memorable nonlinear experiences in game play, it's hard to give real value to play styles with this approach.” (“Level Design Summit - Benefits of Missing Out - What 'Cyberpunk 2077' Taught Us About Non-Linear Level Design-en-US.pdf”, p. 16)
 
-“This speed is primarily about the player discovering their options, making their choices, and overcoming challenges.” (“Level Design Summit - Benefits of Missing Out - What 'Cyberpunk 2077' Taught Us About Non-Linear Level Design-en-US.pdf”, p. 18)
+“This beat, Discovery, is primarily about the player discovering their options, making their choices, and overcoming challenges.” (“Level Design Summit - Benefits of Missing Out - What 'Cyberpunk 2077' Taught Us About Non-Linear Level Design-en-US.pdf”, p. 18)
 
 “Once the player made their choice and successfully passed through the discovery area, they now find themselves in our exploration beat, and the exploration beat provides a more intimate and linear experience compared to discovery. 31:04 It does this by narrowing down the level and what the player can see of the rest of the location, restricting them to the path they have chosen. 31:13 The intent is to let the player focus on exploring and experiencing the choice they committed to, and this beat is less about making new choices and much more about the consequence of choosing. 31:27 It's the payoff for having chosen Now this is the moment for some cool, intimate experiences, World building, puzzles, special encounters, secrets, expanding on the context of the level's narrative, whatever you can think of to make this cool.” (“Level Design Summit - Benefits of Missing Out - What 'Cyberpunk 2077' Taught Us About Non-Linear Level Design-en-US.pdf”, p. 18)
 

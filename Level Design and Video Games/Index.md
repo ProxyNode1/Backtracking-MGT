@@ -1,7 +1,10 @@
 - [[What is a Level]]
+- [[What is Level Design]]
+- [[What is a good level]]
 - [[Who are Level Designer]]
 - [[What is the purpose of the level in a video game]]
-- [[What is a good level]]
+- 
+- 
 
 
 - [[Production cycle of a Level]]

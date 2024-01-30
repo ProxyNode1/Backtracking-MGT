@@ -1,6 +1,9 @@
 # What do devs consider (or not) as backtracking?
 2024-01-17
 
+[[Current Definition of Backtracking]]
+
+
 
 
 

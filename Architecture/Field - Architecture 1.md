@@ -10,8 +10,6 @@ Backtracking is defined as **retracing one's steps**.
 ###### Why do people like to use the same path, they just followed, to go back in real life?
 
 
-
-
 ######  When do people not like to use the same path, they just followed, to go back in real life?
 
 
@@ -39,7 +37,7 @@ Backtracking is defined as **retracing one's steps**.
 - One way traffic/Circulation
 - Two Way traffic/Circulation
 
-
+- 
 
 
 ## [[Process]]

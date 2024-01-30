@@ -1,6 +1,10 @@
 
 # Resident Evil Puzzle Box Design - Level design - processes and experiences - Christopher Totten
 
+**Johnson, D (2016) *"Cracking the Resident Evil Puzzle Box"* in *“Level Design: Processes and Experiences”*, C. Totten (ed.). CRC Press.**
+
+(Johnson, 2016)
+
 By Daniel Johnson
 
 “Resident Evil puzzle box design.”

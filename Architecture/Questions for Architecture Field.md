@@ -12,9 +12,8 @@ The difference between normal routes vs games is that, people takes routes so th
 > Same path = Familiar Environment
 
 
-## Main:
+### Architecture:
 
-> Promenade
 
 - How often do people use the same roads to travel to and from their homes?
 	- Very often.
@@ -28,6 +27,7 @@ The difference between normal routes vs games is that, people takes routes so th
 	- (Elldér, 2014)
 	- (Papinski & Scott, 2013)
 
+
 ### Other
 - When do they use different, possibly unfamiliar, routes?
 
@@ -36,6 +36,38 @@ The difference between normal routes vs games is that, people takes routes so th
 - What kind of traveler usually likes to use different paths?
   
 - Is there a difference in the way people navigate familiar vs unfamiliar spaces?
+
+
+### Spaces design similar to levels
+
+- Promenade
+- Guest experience
+- Path
+- Route Choice behaviour
+- Route Choice Model
+- Space connectivity
+
+
+
+#### Which real world place offer similar experience as a level.
+- Theme Parks
+- Amusement Parks
+- Museums
+- Gallery
+- 
+
+
+#### Why do they design routes, the way they do, in those spaces?
+- **Spatial Layout**
+- Spatial Sequence
+- Spatial Structure
+- Spatial Meaning
+- path network
+- visitor flows
+- 
+
+
+
 
 #
 

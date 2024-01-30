@@ -1,6 +1,10 @@
-# Ten Principles of Great Level Design
+# Ten Principles of Good Level Design
 
 By Dan Taylor
+
+Taylor, D. (2013). _Ten Principles for Good Level Design_. GDC 2013. [https://www.youtube.com/watch?v=iNEe3KhMvXM](https://www.youtube.com/watch?v=iNEe3KhMvXM)
+
+(Taylor, 2013)
 
 #to-do #dev-intentions #players-experience 
 
@@ -13,7 +17,7 @@ By Dan Taylor
 
 “What the player doesn't notice in the screenshot is equally important. 5:43 So the hidden messenger bags, the speed paths that will give you achievements, and all of these are put in there to encourage exploration, which is essentially freestyle navigation, and this helps create depth and replayability in your levels.” (“Ten Principles for Good Level Design-en-US.pdf”, p. 4)
 
-“sometimes it's good to throw in a little confusion. 6:05 Now, Modern Warfare 2 does this particularly well in its favela level S Highly memorable through its hectic and intense game play, it's set in a Brazilian favela.” (“Ten Principles for Good Level Design-en-US.pdf”, p. 4)
+“sometimes it's good to throw in a little confusion. 6:05 Now, Modern Warfare 2 does this particularly well in its favela level it is Highly memorable through its hectic and intense game play, it's set in a Brazilian favela.” (“Ten Principles for Good Level Design-en-US.pdf”, p. 4)
 
 “versicality” (“Ten Principles for Good Level Design-en-US.pdf”, p. 5) Verticality
 

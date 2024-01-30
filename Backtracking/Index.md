@@ -2,13 +2,15 @@
 2024-01-21
 
 ### Backtracking: 
-- [[Benefits of Backtracking according to devs]]
+- [[Benefits of Backtracking]]
   
 - [[When is the player disallowed to backtrack]]
   
 - [[What do devs consider (or not) as backtracking]]
   
 - [[Player Feedback about Backtracking]]
+
+
 
 
 ### Architecture:
@@ -19,7 +21,3 @@
 	- If not, why dont they like it?
 - When does the architect allows the 2 way navigation, and when do they dont allow it?
 
-### Repetition:
-- What are the benefits of repeating an activity?
-- When do people like it?
-- When do people hate it?

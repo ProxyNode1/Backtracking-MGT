@@ -3,7 +3,7 @@
 
 
 - [[What do devs consider (or not) as backtracking]]
-- [[Benefits of Backtracking according to devs]]
+- [[Benefits of Backtracking]]
 
 
 **Determine, if I want to implement ==backtracking== in my ==levels==, what ==things== should I consider?**

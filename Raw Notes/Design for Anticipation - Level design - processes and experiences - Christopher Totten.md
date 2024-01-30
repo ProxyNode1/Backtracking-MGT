@@ -1,13 +1,17 @@
 
 # Design for Anticipation - Level design - processes and experiences - Christopher Totten
 
+**Upton, B (2016). _“P.T. and the Play of Stillness”_ in _“Level Design: Processes and Experiences”_, C. Totten (ed.). CRC Press.**
+
+**(Upton, 2016)**
+
 By Brian Upton
+
+
 
 #dev-intentions #repetition #choices #space #time #progression #to-do 
 
 “The one-way door in P.T. is important because it’s a powerful example of how reducing interaction can increase the playfulness of a game. If there were more things for the player to interact with in the first half of the corridor, if backtracking offered the hope of finding a safer route, if there were more meaningful gameplay choices to make, then thinking our options would crowd out the interpretive choices that make P.T. scary. The use of a one-way door to eliminate the possibility of backtracking directs our attention away from planning our escape and toward interpreting our ominous situation.” (Totten, 2017, p. 198)
-
-“It’s a one-way gate that always allows passage forward and never allows passage back. If it changed its state by locking and unlocking, that would imply that it might change its state in other ways. Backtracking returns as a possibility to consider. If we can’t backtrack now, it might not be because backtracking is impossible, but merely because we haven’t discovered the correct trigger yet.” (Totten, 2017, p. 199)
 
 ---
 
@@ -58,3 +62,7 @@ By Brian Upton
 “A strategic game like Go supports long runs of anticipatory play not just because each turn offers a large number of possible moves, but because each move leads to a fresh board position that invites further anticipatory play.” (Totten, 2017, p. 190)
 
 “junction that leads to two different rooms that themselves invite additional anticipatory analysis: If I run straight through the door I might be able to dash across the open courtyard before the guards see me, but if I climb up to the balcony I might be able to sneak past them. This sort of choice is not a simple either/or proposition, but the first link in a long chain of choices that lead to a wide variety of different outcomes.” (Totten, 2017, p. 190)
+
+“Anticipatory play in a nonhorror game is usually directed toward figuring out a route to success. But anticipatory play in a horror game is directed toward dread of failure.” (Totten, 2017, p. 193)
+
+“It’s a one-way gate that always allows passage forward and never allows passage back. If it changed its state by locking and unlocking, that would imply that it might change its state in other ways. Backtracking returns as a possibility to consider. If we can’t backtrack now, it might not be because backtracking is impossible, but merely because we haven’t discovered the correct trigger yet.” (Totten, 2017, p. 199)

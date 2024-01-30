@@ -1,5 +1,6 @@
 #dev-intentions #players-experience #space #space-change #to-do 
 
+(Bounce (Level Design) - Valve Developer Community)
 
 “A bounce is a layout element beginning with an inaccessible area, forcing the player to sidetrack and remove an obstacle before proceeding.” (“Bounce (level design) - Valve Developer Community”, p. 1)
 
@@ -23,11 +24,9 @@
 
 “Its task is to hold up the player's advancement and divert them to a nearby location for them to be able to proceed further into the game.” (“Bounce (level design) - Valve Developer Community”, p. 2)
 
-“The player must fight off a Combine drop team and a number of poison headcrab zombies, only to discover that the way onward is blocked by a force field.” (“Bounce (level design) - Valve Developer Community”, p. 2)
+“In Highway 17, The player must fight off a Combine drop team and a number of poison headcrab zombies, only to discover that the way onward is blocked by a force field. To disable it, the buggy must be left behind and the player has to climb their way beneath the bridge to the other side and push a button in a control room. Then, on the way back, a Combine gunship must be fought off, after which the player can proceed through the force field.” (“Bounce (level design) - Valve Developer Community”, p. 2)
 
-“Then, on the way back, a Combine gunship must be fought off, after which the player can proceed through the force field.” (“Bounce (level design) - Valve Developer Community”, p. 2)
-
-“he player fights Combine soldiers, rollermines, and manhacks (and a few headcrabs) all the way down to the deepest reaches of the bunker under the island.” (“Bounce (level design) - Valve Developer Community”, p. 3)
+“The player fights Combine soldiers, rollermines, and manhacks (and a few headcrabs) all the way down to the deepest reaches of the bunker under the island.” (“Bounce (level design) - Valve Developer Community”, p. 3)
 
 “At this place, a powerful amount of force wrecks the bunker,” (“Bounce (level design) - Valve Developer Community”, p. 3)
 
