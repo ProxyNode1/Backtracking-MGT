@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"7d945b6a832d8b5a","type":"text","text":"# Hypothesis","x":-299,"y":-940,"width":250,"height":60,"color":"3"},
+		{"id":"eab289c9555c8b41","type":"text","text":"# Literature Review for Component synthesis","x":-384,"y":-1160,"width":421,"height":80,"color":"6"},
+		{"id":"ce167028094513e6","type":"text","text":"# Choose a component to test","x":-486,"y":-1370,"width":625,"height":50,"color":"3"},
+		{"id":"69ef50d6f26ff8c2","type":"text","text":"# List of components","x":-356,"y":-1600,"width":369,"height":112,"color":"4"},
+		{"id":"832380e77c69c4e1","type":"text","text":"# Required Data","x":-299,"y":-720,"width":250,"height":60,"color":"3"},
+		{"id":"4405f9ef6d7d8f94","type":"text","text":"# Literature Review","x":-49,"y":-2440,"width":625,"height":90,"color":"3"},
+		{"id":"8364fe470a67da9e","type":"text","text":"# Interview with the designers","x":-966,"y":-2440,"width":625,"height":90,"color":"3"},
+		{"id":"0313c08f7fb68773","type":"text","text":"# Methodology to analyze interviews","x":-820,"y":-2190,"width":334,"height":110,"color":"6"},
+		{"id":"5639ca08f7203405","type":"text","text":"# Determine what components makes up backtracking.","x":-484,"y":-1840,"width":625,"height":98,"color":"2"},
+		{"id":"4486ecb057aba7d7","type":"text","text":"# How are to determining what components makes up backtracking ?","x":680,"y":-2525,"width":340,"height":260,"color":"1"},
+		{"id":"4d7c01fdc2460db1","type":"text","text":"# What kind of research might provide answer to the hypothesis","x":680,"y":-610,"width":340,"height":160,"color":"1"},
+		{"id":"1099a68ff0aa1291","type":"text","text":"# Data","x":-299,"y":125,"width":250,"height":50,"color":"4"},
+		{"id":"deccbbd4657b52e8","type":"text","text":"# A Method","x":-425,"y":-174,"width":250,"height":60,"color":"3"},
+		{"id":"31962d2f424cda30","type":"text","text":"# Tools required in the experiment","x":-962,"y":-200,"width":369,"height":112,"color":"5"},
+		{"id":"4092e4e800f0ebeb","type":"text","text":"# Literature Review for Methodology","x":-509,"y":-495,"width":421,"height":90,"color":"6"},
+		{"id":"d840de01931b6ddd","type":"text","text":"# How did you created this hypothesis","x":680,"y":-960,"width":340,"height":100,"color":"1"},
+		{"id":"b2439b0b4a59f32d","type":"text","text":"# How are you choosing a component?","x":680,"y":-1395,"width":340,"height":100,"color":"1"}
+	],
+	"edges":[
+		{"id":"b165669cf01663d1","fromNode":"deccbbd4657b52e8","fromSide":"left","toNode":"31962d2f424cda30","toSide":"right"},
+		{"id":"ce766af74dd63293","fromNode":"7d945b6a832d8b5a","fromSide":"bottom","toNode":"832380e77c69c4e1","toSide":"top"},
+		{"id":"38962e79bdc5254c","fromNode":"ce167028094513e6","fromSide":"bottom","toNode":"eab289c9555c8b41","toSide":"top"},
+		{"id":"c23410e7a7f8078a","fromNode":"eab289c9555c8b41","fromSide":"bottom","toNode":"7d945b6a832d8b5a","toSide":"top"},
+		{"id":"c185bb394bcc1637","fromNode":"d840de01931b6ddd","fromSide":"left","toNode":"eab289c9555c8b41","toSide":"right"},
+		{"id":"d9cb47f708836562","fromNode":"69ef50d6f26ff8c2","fromSide":"bottom","toNode":"ce167028094513e6","toSide":"top"},
+		{"id":"8ad0e231bf3772ca","fromNode":"4405f9ef6d7d8f94","fromSide":"bottom","toNode":"5639ca08f7203405","toSide":"top"},
+		{"id":"56ccafbc043dc97c","fromNode":"5639ca08f7203405","fromSide":"bottom","toNode":"69ef50d6f26ff8c2","toSide":"top"},
+		{"id":"9041121a57b64907","fromNode":"0313c08f7fb68773","fromSide":"bottom","toNode":"5639ca08f7203405","toSide":"top"},
+		{"id":"4955220101948d86","fromNode":"8364fe470a67da9e","fromSide":"bottom","toNode":"0313c08f7fb68773","toSide":"top"},
+		{"id":"5cecfab1658cc287","fromNode":"832380e77c69c4e1","fromSide":"bottom","toNode":"4092e4e800f0ebeb","toSide":"top"},
+		{"id":"86a774e1fa6c7454","fromNode":"4092e4e800f0ebeb","fromSide":"bottom","toNode":"deccbbd4657b52e8","toSide":"top"},
+		{"id":"1a313c03d0b071f9","fromNode":"1099a68ff0aa1291","fromSide":"right","toNode":"832380e77c69c4e1","toSide":"right","color":"1","label":"Compare"},
+		{"id":"b58dc9bf62fd8842","fromNode":"deccbbd4657b52e8","fromSide":"bottom","toNode":"1099a68ff0aa1291","toSide":"top"}
+	]
+}
